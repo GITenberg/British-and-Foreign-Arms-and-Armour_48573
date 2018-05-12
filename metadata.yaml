@@ -1,0 +1,28 @@
+_repo: British-and-Foreign-Arms-and-Armour_48573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48573-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ashdown, Charles Henry
+    alias: Ashdown, Charles H.
+    gutenberg_agent_id: '44861'
+    url: http://www.gutenberg.org/2009/agents/44861
+description: ''
+gutenberg_issued: '2015-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Armor -- Europe'
+- !lcsh 'Weapons -- Europe'
+- !lcc 'U'
+- !lcsh 'Armor -- England'
+- !lcsh 'Weapons -- England'
+title: British and Foreign Arms & Armour
+url: http://www.gutenberg.org/ebooks/48573
