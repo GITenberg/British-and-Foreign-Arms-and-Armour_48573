@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '44861'
     url: http://www.gutenberg.org/2009/agents/44861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48573#British-and-Foreign-Arms-and-Armour
 gutenberg_issued: '2015-03-24'
 gutenberg_type: Text
 identifiers:
